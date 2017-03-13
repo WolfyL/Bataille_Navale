@@ -1,0 +1,23 @@
+td, th {
+  width: 20px;
+  height: 20px;
+  color: white;
+}
+
+th {
+  background-color: black;
+}
+
+td {
+  background-color: blue;
+}
+
+.colorred{
+  background-color: red;
+}
+
+#no-mans-land {
+  background-color: green;
+  height: 100px;
+  margin: 50px 0;
+}
